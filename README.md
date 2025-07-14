@@ -35,9 +35,9 @@ Here are some of the projects I'm particularly proud of that showcase my work wi
 
 * **[D365 Icons and Tooltips](https://appsource.microsoft.com/en-us/product/dynamics-365/phuocle.d365-icons-and-tooltips)** - Published on Microsoft AppSource: A comprehensive Dynamics 365 solution that enhances user experience by providing intuitive icons and informative tooltips throughout the application interface. This app significantly improves user adoption and reduces training time by making the Dynamics 365 interface more user-friendly and self-explanatory, helping organizations maximize their investment in the platform.
 
-* **[Dynamics-Crm-DevKit](https://github.com/phuocle/Dynamics-Crm-DevKit)**: A powerful development toolkit for Dynamics 365/CRM, enhancing developer productivity. *(Ensure this repo has a fantastic README!)*
-* **[Dataverse-Dialog-Builder](https://github.com/phuocle/Dataverse-Dialog-Builder)**: A JavaScript-based tool to simplify dialog creation and management within Dataverse. *(Again, a great README here will make a huge difference!)*
-* **[Crm-Grid-Plus](https://github.com/phuocle/Crm-Grid-Plus)**: (Add a brief, compelling description of this project here.)
+* **[Dynamics-Crm-DevKit](https://github.com/phuocle/Dynamics-Crm-DevKit)**: A powerful development toolkit for Dynamics 365/CRM, enhancing developer productivity.
+* **[Dataverse-Dialog-Builder](https://github.com/phuocle/Dataverse-Dialog-Builder)**: A managed solution helps you build Microsoft Dataverse OOB dialogs, such as the Assign dialog, Close Opportunity dialog, ...
+* **[Crm-Grid-Plus](https://github.com/phuocle/Crm-Grid-Plus)**: transforms your Dynamics CRM/CDS grid with a new look and feel, offering advanced row formatting for alternating colors and enhanced readability, plus conditional formatting options to customize text styles and colors based on specific criteria.
 
 ---
 
@@ -46,8 +46,10 @@ Here are some of the projects I'm particularly proud of that showcase my work wi
 <p>
     <a href="https://github.com/phuocle">
         <img src="https://github-readme-stats.vercel.app/api?username=phuocle&show_icons=true&theme=vue&hide_border=true&count_private=true" alt="Phuoc's GitHub Stats">
-        <img src="https://github-readme-streak-stats.demolab.com/?user=phuocle&theme=vue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Phuoc's GitHub Streak">
     </a>
+</p>
+<p>
+    <a href="https://github.com/phuocle"><img src="https://streak-stats.demolab.com?user=phuocle" alt="Phuoc's GitHub Streak" /></a>
 </p>
 <p>
     <a href="https://github.com/phuocle">
@@ -62,8 +64,8 @@ Here are some of the projects I'm particularly proud of that showcase my work wi
 I'm always open to discussing new projects, sharing knowledge, or collaborating on interesting ideas. Feel free to reach out!
 
 * **Website:** [https://phuocle.net](https://phuocle.net)
-* **LinkedIn:** [Your LinkedIn Profile URL] *(e.g., https://www.linkedin.com/in/phuoc-le)*
-* **Email:** [Your Email Address] *(e.g., your.email@example.com)*
+* **LinkedIn:** [https://www.linkedin.com/in/levanphuoc](https://www.linkedin.com/in/levanphuoc/)
+* **Email:** [vanphuoc@gmail.com](vanphuoc@gmail.com)
 
 ---
 
