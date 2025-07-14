@@ -33,6 +33,8 @@ Here's a snapshot of the technologies and tools I work with:
 
 Here are some of the projects I'm particularly proud of that showcase my work with Dynamics 365 and Dataverse:
 
+* **[D365 Icons and Tooltips](https://appsource.microsoft.com/en-us/product/dynamics-365/phuocle.d365-icons-and-tooltips)** - Published on Microsoft AppSource: A comprehensive Dynamics 365 solution that enhances user experience by providing intuitive icons and informative tooltips throughout the application interface. This app significantly improves user adoption and reduces training time by making the Dynamics 365 interface more user-friendly and self-explanatory, helping organizations maximize their investment in the platform.
+
 * **[Dynamics-Crm-DevKit](https://github.com/phuocle/Dynamics-Crm-DevKit)**: A powerful development toolkit for Dynamics 365/CRM, enhancing developer productivity. *(Ensure this repo has a fantastic README!)*
 * **[Dataverse-Dialog-Builder](https://github.com/phuocle/Dataverse-Dialog-Builder)**: A JavaScript-based tool to simplify dialog creation and management within Dataverse. *(Again, a great README here will make a huge difference!)*
 * **[Crm-Grid-Plus](https://github.com/phuocle/Crm-Grid-Plus)**: (Add a brief, compelling description of this project here.)
